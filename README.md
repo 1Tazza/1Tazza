@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Back-end projects**
 
-- ⚡ What are my hobbies **I like to take photos, walk and program**
+- ⚡ What are my hobbies: **I like to take photos, walk and program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
