@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matias👽</h1>
-<h3 align="center">I'm a full-stack developer with experience in building web applications using modern technologies and methodologies.👨‍💻</h3>
+<h3 align="center">I'm a Back End developer with experience in building web applications using modern technologies and methodologies.👨‍💻</h3>
 
-- 🔭 I’m currently working on **Individual Project to learn more technologies**
+- 🔭 I’m currently working on **Typescript and API Rest**
 
 - 👯 I’m looking to collaborate on **Back-end projects**
 
