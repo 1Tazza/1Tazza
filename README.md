@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matias👽</h1>
+<p align="center">Hi, I'm Matias👽</p>
 <h3 align="center">I'm a Full Stack developer with experience in building web applications using modern technologies and methodologies.👨‍💻</h3>
 
 - 🔭 I’m currently working on **Typescript**
